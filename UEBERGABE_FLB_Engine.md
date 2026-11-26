@@ -37,7 +37,7 @@ Konto: **clanabel@tawo.de** (das Konto anabel.kauer@tawo.de ist bis 14:40 Uhr am
 - [ ] Den Fach-Paten benennen (statt „N. N.“)
 - [ ] H1 und H2 im UI entscheiden
 - [x] H0-Fix: schon in `main` von `flb-engine` (siehe oben)
-- [ ] Entscheiden, ob für `feat/rueckfluss-11-7` (6 Commits, nicht in `main`) ein PR angelegt werden soll
+- [ ] PR https://github.com/aktawo-oss/flb-engine/pull/63 prüfen und mergen (`feat/rueckfluss-11-7` mit main zusammengeführt, Logik-Eingang Nr. 56/57 des Rückflusses als Nr. 59/60)
 
 ## Regeln
 
